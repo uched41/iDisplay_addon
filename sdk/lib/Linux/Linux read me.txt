@@ -1,0 +1,5 @@
+Linux_Read Me
+
+Change USB permissions
+Copy the file to "/etc/udev/rules.d/"
+$ sudo cp SDK_Release/USB_Interface/Library/Linux/99-hid.rulse /etc/udev/rules.d
